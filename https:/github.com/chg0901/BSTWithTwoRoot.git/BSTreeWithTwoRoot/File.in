@@ -1,0 +1,135 @@
+INSERT SungHyun Choi 304-9483 205, mia-dong, gangbuk-gu, seoul
+INSERT SungHyun Choi 888-5555 714, ssangsamun-dong, dobzxong-gu, seoul
+INSERT YongHoon Cha 304-2328 1003, shihung-dong, geumchun-gu, seoul
+INSERT JungHwan Lee 013-4523 52, wolgye-dong, nowon-gu, seoul
+INSERT SungHyun Choi 305-9434 235, mia-g, gangbastgsuk-gu, seoul
+INSERT WonYoung Kim 301-5825 1190, myunmok-dong, junglang-gu, seoul
+INSERT SungHyun Chois 324-9483 205, mia-dzvzg, gangbuk-gu, seoul
+INSERT YongHoon Chab 324-2538 1003, shihgdsgg-dong, geumchun-gu, seoul
+INSERT JungHwan Lees 013-4573 52, wolgye-dong, nowzvxvzn-gu, seoul
+INSERT SungHyun Choid 605-9324 235, mia-g, gangzvvtgsuk-gu, seoul
+INSERT WonYoung Kimb 381-5875 1190, myunvzxvzok-dong, junglang-gu, seoul
+INSERT HyunSussng Bhaoi 304-9253 205, mia-dong, gangbuk-gu, seoul
+INSERT Cha YossdngHodson 308-2328 1003, shihung-dong, geumchun-gu, seoul
+INSERT JuasfgHwan Leae 083-4273 52, wolgye-dong, nowon-gu, seoul
+INSERT Choi SufsdHyun 305-9534 235, mia-g, gangbastgsuk-gu, seoul
+INSERT Kim WnYong 361-5825 1190, myunmok-dong, junglang-gu, seoul
+INSERT Kim WnYong 377-5825 1120, myuk-dong, jungng-gu, sedaoul
+INSERT Cc Hh 234-2345 567, zaijiaonan, zaishandong, zaihuangdao
+INSERT Cc Hh 456-7890 587, zaishandong, zaijiaonan, zaihuangdao
+INSERT Mm Nn 987-6543 994, zaihanguo, zaishouer, zaiguanyung
+INSERT Mm Nn 543-9876 552, zaihauo, zaigsaouer, zaigagung
+INSERT MmB NBn 546-9866 532, zaiDFauo, zaigSDuer, zaigaSng
+INSERT Asunghyun Cchoi 123-9483 205, asmia-dong, ganasffbuk-gu, seoul
+INSERT Asunghyun Cchoi 123-5555 714, ssgdsdvun-dong, dfazxong-gu, seoul
+INSERT Yonghoon Ccha 123-2328 1003, shihung-dong, geumsasfn-gu, seoul
+INSERT Ajunghwan Llee 123-4523 52, wolgye-dong, novzon-gu, seoul
+INSERT Asunghyun Cchoi 123-9434 235, mia-g, ganzvztgsuk-gu, seoul
+INSERT Awonyoung Kkim 124-5825 1190, mzzmok-dong, junglabbng-gu, seoul
+INSERT Asunghyun Cchois 124-9483 205, mia-daazvzg, gangbdduk-gu, seoul
+INSERT Ayonghoon Cchab 124-2538 1003, shihddgdsgg-dong, gebbumchun-gu, seoul
+INSERT Ajunghwan Llees 123-4573 52, wolgasaye-dong, bbasa-gu, seoul
+INSERT Asunghyun Cchoid 125-9324 235, maaia-g, gangggzvvtgsuk-gu, seoul
+INSERT Awonyoung Kkimb 121-5875 1190, myunccvzxvzok-dong, junglang-gu, seoul
+INSERT Ahyunsussng Bbhaoi 124-9253 205, mia-dozzng, ganghhbuk-gu, seoul
+INSERT Acha Yyossdnghodson 128-2328 1003, shihung-dhsong, geumchun-gu, seoul
+INSERT Ajuasfghwan Lleae 123-4273 52, wolgysse-dong, nowon-gu, seoul
+INSERT Achoi Ssufsdhyun 235-9534 235, mibba-g, gangbastgsuk-gu, seoul
+INSERT Akim Wwnyong 231-5825 1190, myunmok-donnng, junglang-gu, seoul
+INSERT Akim Wwnyong 237-5825 1120, myuk-dong, jungnnng-gu, sedaoul
+INSERT Acc Hhh 234-2346 567, zaijiassonan, zaishanssdong, zaihuangdao
+INSERT Acc Hhh 236-7890 587, zaishaccndong, zaijiaonan, zaihuangdao
+DELETE 231-5825
+UPDATE 124-2538 124-2539
+PRINT 124
+PRINT
+UPDATE 123-4573 61224, aaagfffaaaun-dong, dobong-gu, seoul
+PRINT
+UPDATE 125-9324 Chg Hosgw
+PRINT
+UPDATE 121-5875 121-5878 Chg Cha
+PRINT
+UPDATE 124-9253 124-9254 864, aqqqmun-dong, dobgggong-gu, seoul
+PRINT
+UPDATE 128-2328 Acha Yyossdnghodson 9994, avvvvmun-dong, dobvvvvong-gu, seoul
+PRINT
+UPDATE 123-4273 123-4274 Yyoaahodson Yong 64, ajjjjgmun-dong, dobong-gu, seoul
+PRINT
+PRINT
+PRINT 304
+DELETE Acc Hhh 587, zaishaccndong, zaijiaonan, zaihuangdao
+PRINT
+DELETE Akim Wwnyong
+INSERT Amm Nnn 237-6543 994, zaihanguo, zaisnnhouer, zaiguanyung
+INSERT Amm Nnn 233-9876 552, zaihauo, zaigsccaouer, zaigagung
+INSERT Ammb Nnbn 236-9866 532, zaixxxdfauo, zaigsduer, zaigasng
+INSERT jack Ming 278-2789 22, beiasing, chenweng, zhengyang
+INSERT Jack Ming 278-2788 33, beiaing, chherhyang, zhengyang
+INSERT Jack Ming 278-2787 44, beijing, chensg, zhengyang
+INSERT Mao Zd 378-7823 55, beisdgng, chesdang, zhengyang
+INSERT Mao Zd 378-7824 66, beigding, chengsdg, zhengyang
+INSERT Mao Zd 378-7822 77, beigsdng, chensdang, zhengyang
+INSERT Xi Jin 378-9999 99, beigsdng, chensdang, zhengyang
+INSERT Li Guo 378-8888 88, be-gvfsdng, chensdang, zhengyang
+UPDATE Mao Zd 55, beisdgng, chesdang, zhengyang 378-7825 56, beisdgng, chesdang, zhengyang
+PRINT
+UPDATE Mao Zd 66, beigding, chengsdg, zhengyang 67, beigding, chengsdg, zhengyhdang
+PRINT
+UPDATE Mao Zd 77, beigsdng, chensdang, zhengyang 378-7829
+PRINT
+UPDATE Ammb Nnbn 236-9888
+PRINT
+UPDATE Xi Jin 98, beigsdng, chensdang, zhengyang
+PRINT
+UPDATE Li Guo 378-7777 77, be-gvfsdng, chensdgsgang, zhengyang
+PRINT
+PRINT 123
+PRINT 304
+PRINT Acc Hhh
+PRINT Amm Nnn
+PRINT Li Guo
+PRINT SungHyun Choi
+PRINT
+INSERT WonYoung Ki2 301-5126 1190, myuzvcfzk-dong, junsgfafng-gu, segasoul
+PRINT 301
+PRINT
+PRINT WonYoung Kimb
+DELETE 013-4523
+PRINT
+INSERT WooShin Lsafee 916-5728 134, bupyeong-dong, bupysaeong-gu, inchefaon
+PRINT 605
+PRINT 304
+DELETE SungHyun Choi 205, mia-dong, gangbuk-gu, seoul
+PRINT
+DELETE 605-9324
+PRINT 308
+DELETE MmB NBn
+PRINT
+INSERT Hyun Park 231-4325 213, wolgaye-doaang, nowon-gu, seasaoul
+PRINT
+UPDATE SungHyun Choi 714, ssangsamun-dong, dobzxong-gu, seoul 732-9999 694, aaafsamun-dong, doffbong-gu, seffoul
+PRINT
+UPDATE Kim WnYong 1120, myuk-dong, jungng-gu, sedaoul 654, aaaun-dong, dobvzong-gu, seoul
+PRINT
+UPDATE Kim WnYong 1190, myunmok-dong, junglang-gu, seoul 634-1254
+PRINT
+UPDATE Hyun Park 715-1235
+PRINT
+UPDATE Choi SufsdHyun 655, aazzsfzxvun-dong, dofaetng-gu, seoul
+PRINT
+UPDATE WooShin Lsafee 994-1434 612, aagasgmun-doang, dobodgang-gu, sdafeoul
+PRINT
+UPDATE 381-5875 714-1121
+PRINT
+UPDATE 714-1121 294, aherjasd-dong, dobfang-gvzu, seozxul
+PRINT
+UPDATE 304-9253 Yofafng Nha
+PRINT
+UPDATE 301-5825 724-1634 Yogang Jhfaa
+PRINT
+UPDATE 724-1634 974-1874 654, auhfazun-dong, dobovzng-gu, sezzoul
+PRINT
+UPDATE 304-9253 Povzang Pha 6824, aahhhfkamun-dong, dobodddng-gu, seodddul
+PRINT
+UPDATE 715-1235 722-1643 Uong Nha 67482, aaammmun-dong, dobnnnong-gu, seaaaoul
+PRINT

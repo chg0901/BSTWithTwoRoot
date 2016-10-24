@@ -1,0 +1,16 @@
+INSERT SungHyun Choi 304-9483 205, mia-dong, gangbuk-gu, seoul
+INSERT YongHoon Cha 304-2328 1003, shihung-dong, geumchun-gu, seoul
+INSERT JungHwan Lee 013-4523 52, wolgye-dong, nowon-gu, seoul
+INSERT WonYoung Kim 301-5825 1190, myunmok-dong, junglang-gu, seoul
+PRINT
+DELETE 013-4523
+PRINT
+INSERT WooShin Lee 216-5728 134, bupyeong-dong, bupyeong-gu, incheon
+PRINT 304
+DELETE SungHyun Choi 205, mia-dong, gangbuk-gu, seoul
+PRINT 216
+PRINT
+INSERT Hyun Park 231-4325 213, wolgye-dong, nowon-gu, seoul
+PRINT
+DELETE 301-5825
+PRINT
